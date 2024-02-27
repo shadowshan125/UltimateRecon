@@ -1,0 +1,10 @@
+ww16.amcs.testphp.vulweb.com
+ww16.ducasses-du-nord.testphp.vulweb.com
+ww16.fzb.testphp.vulweb.com
+ww16.hk46.testphp.vulweb.com
+ww16.nordseegymnasium.testphp.vulweb.com
+ww16.shizen1102.testphp.vulweb.com
+ww16.sram-demo.testphp.vulweb.com
+ww1.testphp.vulweb.com
+ww16.testphp.vulweb.com
+ww25.testphp.vulweb.com

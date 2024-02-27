@@ -1,0 +1,15 @@
+www.alza.sk
+admin.alza.sk
+autodiscover.alza.sk
+av.alza.sk
+beta.alza.sk
+cdn.alza.sk
+hracky.alza.sk
+lyncdiscover.alza.sk
+m.alza.sk
+maxi.alza.sk
+mbeta.alza.sk
+media.alza.sk
+sip.alza.sk
+trendy.alza.sk
+wc.alza.sk
